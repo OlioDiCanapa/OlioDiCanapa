@@ -1,5 +1,7 @@
 # OlioDiCanapa
 
+Olio Di Canapa Store si occupa della vendita e divulgazione dei prodotti a base di Canapa Sativa. All'interno dello Shop troverai farina di canapa, olio di canapa, pasta di canapa, latte di canapa, prodotti per il corpo, salute e benessere della persona.
+
 https://oliodicanapa.net/prodotto/crema-pelli-sensibili-canapa-cremcann-omega-3-6-50-ml/
 https://oliodicanapa.net/prodotto/crema-pelli-sensibili-canapa-cremcann-omega-3-6-15-ml/
 https://oliodicanapa.net/prodotto/crema-emorroidi-alla-canapa-balcann-unguento-15-ml/
